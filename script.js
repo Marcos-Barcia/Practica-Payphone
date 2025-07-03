@@ -1,6 +1,6 @@
 // CONFIGURA TUS DATOS PAYPHONE AQUI:
 const token = "33QeJM8GCpZAuGnVHzvxFnC-XSxHSAd1F-IQ6v7Zr1k1T4I4TLJuhpEuWhkeICE2NHg5R97XO3AXM5YtYkO4dzZQGxZ1F_bTprwMBt1vNfYFAy3FKckg8MvG22rWyheKdwo4dfp90SPJyDYGvV98Z2M2emtQD6JVQEvvlTWAQ48SS2_5dK7Zxixbq2s8ivNTSmO9SWP_tNane26GuCY3ix8sQYIuBPgadi3whQbALveLLqK68vJqKlJSQ2_s7zm9eiYUN6dMVeGaDG-uWzojmSp_ycynP2CKIUJCDYYIfVqoKs_6cmT8lPXS47aDL8K9YUL35RSorrPxJ5HYcSWwLk6G20o";
-const storeId = "SfPv09G3LkO3uMWxMdBu1w";
+const storeId = "7eeae53330314eb48ea3698914880598";
 
 const productos = [
   { nombre: "Laptop Gamer", precio: 999.99, img: "https://via.placeholder.com/200x150?text=Laptop" },
