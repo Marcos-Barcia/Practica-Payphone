@@ -1,6 +1,6 @@
 // CONFIGURA TUS DATOS PAYPHONE AQUI:
-const token = "";
-const storeId = "";
+const token = process.env.PAYPHONE_TOKEN;
+const storeId = process.env.PAYPHONE_STORE_ID;
 
 const productos = [
   { nombre: "Laptop Gamer", precio: 999.99, img: "https://via.placeholder.com/200x150?text=Laptop" },
