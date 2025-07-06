@@ -1,6 +1,6 @@
 // Datos reales de PayPhone para pruebas
-const token = "9629a884-797d-44e5-8500-6ab2f4a2e0f2"; // Tu token real de pruebas
-const storeId = "2LXWQtUBDUGnL PZTsqjMxw"; // <-- CORRÍGELO, esto parece ser el Identificador, pero el storeId numérico real viene de PayPhone (te lo da soporte o el dashboard de comercio)
+const token = "33QeJM8GCpZAuGnVHzvxFnC-XSxHSAd1F-IQ6v7Zr1k1T4I4TLJuhpEuWhkeICE2NHg5R97XO3AXM5YtYkO4dzZQGxZ1F_bTprwMBt1vNfYFAy3FKckg8MvG22rWyheKdwo4dfp90SPJyDYGvV98Z2M2emtQD6JVQEvvlTWAQ48SS2_5dK7Zxixbq2s8ivNTSmO9SWP_tNane26GuCY3ix8sQYIuBPgadi3whQbALveLLqK68vJqKlJSQ2_s7zm9eiYUN6dMVeGaDG-uWzojmSp_ycynP2CKIUJCDYYIfVqoKs_6cmT8lPXS47aDL8K9YUL35RSorrPxJ5HYcSWwLk6G20o"; // Tu token real de pruebas
+const storeId = "4a4526f8-8233-4c88-9660-023416d45893"; // <-- CORRÍGELO, esto parece ser el Identificador, pero el storeId numérico real viene de PayPhone (te lo da soporte o el dashboard de comercio)
 
 const productos = [
   { nombre: "Laptop Gamer", precio: 999.99, img: "https://via.placeholder.com/200x150?text=Laptop" },
