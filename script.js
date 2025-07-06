@@ -3,13 +3,38 @@ const token = "33QeJM8GCpZAuGnVHzvxFnC-XSxHSAd1F-IQ6v7Zr1k1T4I4TLJuhpEuWhkeICE2N
 const storeId = "4a4526f8-8233-4c88-9660-023416d45893"; // <-- CORRÍGELO, esto parece ser el Identificador, pero el storeId numérico real viene de PayPhone (te lo da soporte o el dashboard de comercio)
 
 const productos = [
-  { nombre: "Laptop Gamer", precio: 999.99, img: "https://via.placeholder.com/200x150?text=Laptop" },
-  { nombre: "Mouse Inalámbrico", precio: 29.50, img: "https://via.placeholder.com/200x150?text=Mouse" },
-  { nombre: "Teclado Mecánico", precio: 89.00, img: "https://via.placeholder.com/200x150?text=Teclado" },
-  { nombre: "Audífonos Bluetooth", precio: 59.99, img: "https://via.placeholder.com/200x150?text=Audifonos" },
-  { nombre: "Monitor 24\" FHD", precio: 149.99, img: "https://via.placeholder.com/200x150?text=Monitor" },
-  { nombre: "Webcam HD", precio: 39.50, img: "https://via.placeholder.com/200x150?text=Webcam" }
+  {
+    nombre: "Laptop Gamer",
+    precio: 999.99,
+    img: "https://nomadaware.com.ec/wp-content/uploads/2022/05/3-copia.png"
+  },
+  {
+    nombre: "Mouse Inalámbrico",
+    precio: 29.50,
+    img: "https://lavictoria.ec/wp-content/uploads/2023/01/MOUSE-INALAMBRICO-HAVIT-DUAL-MODE-HVMS-MS959W-BK-1-600x600.jpg"
+  },
+  {
+    nombre: "Teclado Mecánico",
+    precio: 89.00,
+    img: "https://m.media-amazon.com/images/I/71T1WQSxp9L._AC_SL1500_.jpg"
+  },
+  {
+    nombre: "Audífonos Bluetooth",
+    precio: 59.99,
+    img: "https://www.steren.com.ec/media/catalog/product/cache/bb0cad18a6adb5d17b0efd58f4201a2f/image/22545a64c/audifonos-bluetooth-touch-true-wireless-con-active-noise-cancelling-y-enviromental-noise-cancelling.jpg"
+  },
+  {
+    nombre: "Monitor 24\" FHD",
+    precio: 149.99,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQppknWvEehCg0Zs6ZJ5nnbnfjl7oXiB0L1Ag&s"
+  },
+  {
+    nombre: "Webcam HD",
+    precio: 39.50,
+    img: "https://m.media-amazon.com/images/I/61-K2lXmHQL.jpg"
+  }
 ];
+
 
 let carrito = [];
 let total = 0;
